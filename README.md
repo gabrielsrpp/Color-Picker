@@ -2,11 +2,13 @@
 
 ColorPick é uma aplicação simples em C# para capturar a cor de qualquer ponto da tela e exibir seu valor em hexadecimal.
 
+
 📌 Funcionalidades
 
 Captura a cor do pixel sob o cursor enquanto o botão de captura está pressionado.
 Exibe a cor capturada em um painel visual e seu código hexadecimal em um campo de texto.
 Alterna o cursor para um "crosshair" durante a captura, melhorando a precisão.
+
 🛠️ Como Funciona
 
 Clique e segure o botão de captura para ativar a seleção de cor.
