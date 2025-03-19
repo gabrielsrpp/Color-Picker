@@ -27,7 +27,7 @@ Multithreading para captura contínua de cor
 Clone este repositório:
 
 bash:
-git clone https://github.com/seu-usuario/ColorPick.git
+git clone https://github.com/gabrielsrpp/ColorPick.git
 Abra o projeto no Visual Studio.
 
 Compile e execute o aplicativo.
